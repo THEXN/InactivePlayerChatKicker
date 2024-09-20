@@ -1,3 +1,5 @@
+# 本仓库已不再更新，已经整合到：https://github.com/UnrealMultiple/TShockPlugin，后续更新均会发布至此仓库
+# This repository is no longer updated and has been integrated into: https://github.com/UnrealMultiple/TShockPlugin. All future updates will be published there.
 # InactivePlayerChatKick 插件
 
 **InactivePlayerChatKick** 是一款临时性插件，专用于防范协议端用户在尚未实际加入游戏服务器的情况下发送各类指令或消息的行为。一旦检测到此类情况，插件将立即强制断开违规用户的连接。该插件安装简便，启用后即可即时生效。
